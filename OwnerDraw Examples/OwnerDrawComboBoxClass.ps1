@@ -1,6 +1,7 @@
 # https://github.com/My-Random-Thoughts/Various-Code/blob/master/OwnerDraw%20Examples/OwnerDraw-ComboBox-Demo
 # https://myrandomthoughts.co.uk/2017/08/ownerdraw-combobox/
 # Tried to make the code as class. Supports multiple comboboxes 
+# Class needs powershell 5
 
 #Requires         -Version 4
 #Set-StrictMode    -Version 2
